@@ -1,0 +1,53 @@
+= Checkpoint
+
+== Background
+
+In this game the player takes on the role of a palestinian that's waiting in line to get through the checkpoint.
+The player must get through the checkpoint before the time is up and the checkpoint closes.
+
+The point of the game is to be sysiphic, despairing, pointless and mostly unwinnable.
+
+== Scene
+
+2D.
+
+We view the queue from a profile. Only the beginning and the middle of the queue are visible. You can't see the end.
+The walls are steel fences. the roof is tin.
+
+The day is hot and clear.
+
+In the corner a clock is visible
+
+== Gameplay
+
+Time in the game is real.
+
+=== Characters
+
+. Labourers
+. Old women
+. Old men
+. Young women
+. Young pregant women
+. Person in a wheel chair
+
+=== Player
+
+You begin as a random character in a random point of the second half of the line.
+
+=== Movement
+
+The queue starts standing still.
+
+After a random amount of time the queue will shuffle forwards. Every person in the queue who's before and after the player shuffles forward at a random time. The player must use the keys to shuffle forward. If the player fails to shuffle on time, the person behind them cuts in.
+
+=== Winning
+
+The player wins if they manage to pass through the checkpoint before 17:00.
+
+=== Other random loss factors
+
+. An old person may suddenly die while waiting in queue and lose the game
+. A pregnant women may go into labour and lose the game
+. A stabbing incident may occurr ahead in line. The checkpoint will then close and the player will lose
+. The player may reach the end of the queue, be denied access and lose the game
