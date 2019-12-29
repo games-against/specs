@@ -1,0 +1,5 @@
+= Wall Crosser
+
+A frogger clone where the player depicts a Palestenian trying to cross the wall.
+
+The player has to avoid jeeps, tanks, bullets and missiles from both Hammas and Israel
