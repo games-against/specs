@@ -1,0 +1,49 @@
+= Olive Farmer
+
+== Background
+
+In this game the player takes on the role of a Palestenian olive farmer.
+To win, the player must manage to grow and harvest a certain amount of olives by the end of harvesting season.
+
+The point of the game is to be sysiphic, despairing, pointless and mostly unwinnable.
+
+== Scene
+
+2D.
+
+An olive orchard, that's a 3x3 (or 4x4) matrix. The orchard begins clear with no plants.
+The ground is bright/sandy. The sky is clear.
+
+== Gameplay
+
+=== The player
+
+Is a female farmer. 
+
+=== Movement
+
+The player may move along the matrix using the arrow keys.
+
+=== Growing
+
+The player has 3 actions:
+
+. Plant
+. Water
+. Harvest
+
+The player must use the actions to plant, water and harvest each tree.
+
+Planting is immediate, growth takes time and enough water, harvesting is immediate.
+
+=== Winning
+
+Every tree may produce `y` amount of olives. The player must harvest `x` olives by the end of the season to win.
+
+=== Other random loss factors
+
+. Israel has cut off access to water and the trees can't be watered
+. Settlers intrude and set a tree on fire
+. Settlers intrude and uproot a tree
+. Israel declares the orchard illegal and bulldozes it
+. Settlers intrude and attack the farmer
