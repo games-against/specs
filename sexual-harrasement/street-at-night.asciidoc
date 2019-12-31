@@ -1,0 +1,32 @@
+= Walk The Street At Night
+
+== Background
+
+In this game the player takes on the role of a women walking a street at night. The player must avoid men who approach to harras her.
+
+To win, you must reach the end of the street without being harrased.
+
+== Scene
+
+FPS.
+
+The player travels through a street at night. The sides of the streets have alleys from which strangers (men) approach her.
+
+== Gameplay
+
+=== Movement
+
+The player must use the arrow keys to dodge the strangers.
+
+=== Harrasment
+
+If unable to dodge, the stranger will tell the player something "nasty".
+
+=== Winning
+
+Is impossible
+The player has 3 strikes.
+On the first harrasment, the player can ignore the stranger.
+On the second harrasment, the player can push the stranger away.
+On the third harrasment, the player can use pepper spray
+On the fourth harrasment, the player loses.
