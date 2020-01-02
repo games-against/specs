@@ -1,0 +1,40 @@
+= Graze In A Farm
+
+== Background
+
+In this game the player takes on the role of a calf living on a farm. The player must grow the calf to adulthood.
+
+To win, the player must be able to raise their calf to old age.
+
+The point of the game is to be sysiphic, despairing, pointless and mostly unwinnable.
+
+== Scene
+
+2D.
+
+A meadow containing a pen. The player's calf resides within the pen with other cows. The pen has one gate, a water trough and a food trough.
+
+The player has a number of indications on the screen:
+
+. Thirst
+. Hunger
+. Age
+
+== Gameplay
+
+=== Movement
+
+The player can move the calf with arrow keys around the pen. The player can perform an action such as eat or drink using a specific key.
+
+=== Replenish
+
+The player can replenish the calf with water or food, otherwise it will die.
+
+=== Winning
+
+Is achieved by reaching the age of 22.
+
+=== Random Loss Factors
+
+. The calf is suddenly locked in a cage for tendering.
+. The adult cow is suddenly taken away for slaughter
